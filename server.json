@@ -31,6 +31,54 @@
       "category": "Venda",
       "price": 50,
       "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": "0a55",
+      "description": "Lápis",
+      "category": "Escola",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2024-09-23T22:42:47.331Z"
+    },
+    {
+      "id": "e77f",
+      "description": "Teste",
+      "category": "Teste",
+      "price": 300,
+      "type": "outcome",
+      "createdAt": "2024-09-23T22:44:45.963Z"
+    },
+    {
+      "id": "c4ed",
+      "description": "Site",
+      "category": "Trabalho",
+      "price": 3000,
+      "type": "income",
+      "createdAt": "2024-09-23T22:45:53.754Z"
+    },
+    {
+      "id": "a700",
+      "description": "Refri",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2024-09-23T22:57:06.587Z"
+    },
+    {
+      "id": "3ad0",
+      "description": "Refri",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2024-09-23T22:57:06.607Z"
+    },
+    {
+      "id": "fa48",
+      "description": "dsads",
+      "category": "dsads",
+      "price": 50,
+      "type": "outcome",
+      "createdAt": "2024-09-23T22:58:09.236Z"
     }
   ]
 }
